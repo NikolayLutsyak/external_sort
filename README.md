@@ -1,14 +1,15 @@
 # external_sort
 MergeSort for large files that can not be allocated in RAM.
+Code was written on Python 3.7.2
 
 For usage information run 
 
 ```
-generate_file.py -h
+python generate_file.py -h
 ```
  
  and
  
 ```
-external_sort.py -h
+python external_sort.py -h
 ```
